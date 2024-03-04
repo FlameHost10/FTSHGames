@@ -3,7 +3,6 @@ package edu.project1;
 import javax.print.DocFlavor;
 
 public class Gallows {
-    //Test1
     private String word;
     private int lenWord;
     private char[] guessedLetters;// массив, который показывает, какие буквы уже угадали, а какие нет.
