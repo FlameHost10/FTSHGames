@@ -3,6 +3,8 @@ package edu.project2;
 import java.util.List;
 
 public class Maze {
+
+    //Test for soft reset
     private static final String COLOR_GREEN = "\u001B[32m";
 
     private int width;
