@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Pictures {
-    //Test3
+    //Test4
     private final ArrayList<String> array_pictures = new ArrayList<>();
 
     public Pictures(){
