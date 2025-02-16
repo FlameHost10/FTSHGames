@@ -21,7 +21,6 @@ public class Test1 {
 
         System.out.println(test3);
         System.out.println();
-        System.out.println();
 
 
     }
