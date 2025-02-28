@@ -13,8 +13,6 @@ public class Main {
         tree.insert(8);
         System.out.println("Глубина: " + tree.depth());
         System.out.println("Максимальная разница: " + tree.maxHeightDifference());
-//
-//        System.out.println("Удачный поиск: " + tree.search(20));
-//        System.out.println("Неудачный поиск: " + tree.search(-5));
+
     }
 }
