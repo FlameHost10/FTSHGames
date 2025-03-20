@@ -9,7 +9,7 @@ public class Main {
         tree.insert(6);
         tree.insert(4);
         tree.insert(2);
-//        tree.insert(8);
+        tree.insert(8);
         System.out.println("Глубина: " + tree.depth());
         System.out.println("Максимальная разница: " + tree.maxHeightDifference());
 
